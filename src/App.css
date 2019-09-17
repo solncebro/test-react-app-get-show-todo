@@ -23,6 +23,14 @@
   color: #61dafb;
 }
 
+.done {
+  background: rgb(216, 240, 169);
+}
+
+.even {
+  background: rgb(254, 255, 241);
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
